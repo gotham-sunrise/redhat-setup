@@ -3,7 +3,7 @@
 set -e
 
 # Devices
-SDA_PART="/dev/sda"   # Or /dev/sda3 if OS uses /dev/sda1
+SDA_PART="/dev/sda3"   # Or /dev/sda3 if OS uses /dev/sda1
 SDB="/dev/sdb"
 SDC="/dev/sdc"
 SDD="/dev/sdd"
